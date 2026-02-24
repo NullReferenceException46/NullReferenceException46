@@ -26,15 +26,25 @@
   - **Cannial Corpse**
   - **Children Of Bodom**
 
-    ![Люимый альбом](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc87tV0UkKXTx7e96B6CFUSB5jAZOIqD5c3A&s)
+    ![Люимый альбом]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc87tV0UkKXTx7e96B6CFUSB5jAZOIqD5c3A&s](https://upload.wikimedia.org/wikipedia/ru/1/1b/Hate_Crew_Deathroll_%28cover%29.jpg))
   - **Type O Negative**
 
-    ![Альбом](https://upload.wikimedia.org/wikipedia/ru/f/fc/BloodyKisses.jpg)
+    ![Альбом]([https://upload.wikimedia.org/wikipedia/ru/f/fc/BloodyKisses.jpg](https://upload.wikimedia.org/wikipedia/ru/f/fc/BloodyKisses.jpg))
   - **Rammstein**
+ 
+    ![Rammstein](https://upload.wikimedia.org/wikipedia/ru/thumb/e/e4/Sehnsucht2.JPG/330px-Sehnsucht2.JPG)
   - **Megadeth**
+ 
+    ![Мастейн](https://upload.wikimedia.org/wikipedia/ru/thumb/0/01/Peace_Sells..._But_Who%27s_Buying_q91.jpg/330px-Peace_Sells..._But_Who%27s_Buying_q91.jpg)
   - **Metallica**
+ 
+    ![Хэтфилд](https://upload.wikimedia.org/wikipedia/ru/thumb/0/09/Metallica_Death_Magnetic.jpg/330px-Metallica_Death_Magnetic.jpg)
   - **Кино**
+ 
+    ![Цой](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/%D0%9A%D0%B8%D0%BD%D0%BE._1985._%D0%AD%D1%82%D0%BE_%D0%BD%D0%B5_%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C_%28%D1%81%D0%BA%D0%B0%D0%BD_%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B8%29.jpg/330px-%D0%9A%D0%B8%D0%BD%D0%BE._1985._%D0%AD%D1%82%D0%BE_%D0%BD%D0%B5_%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C_%28%D1%81%D0%BA%D0%B0%D0%BD_%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B8%29.jpg)
   - **Наутилус Помпилиус**
+ 
+    ![Наутилусы](https://upload.wikimedia.org/wikipedia/ru/thumb/f/ff/%D0%9D%D0%B0%D1%83%D1%82%D0%B8%D0%BB%D1%83%D1%81_%D0%9F%D0%BE%D0%BC%D0%BF%D0%B8%D0%BB%D0%B8%D1%83%D1%81_%D0%A2%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%BA.jpg/250px-%D0%9D%D0%B0%D1%83%D1%82%D0%B8%D0%BB%D1%83%D1%81_%D0%9F%D0%BE%D0%BC%D0%BF%D0%B8%D0%BB%D0%B8%D1%83%D1%81_%D0%A2%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%BA.jpg)
 - Недавно пристрастился к аниме. Пока посмотрел только:
   - **Вермейл в золотом** (Мое любимое)
   - **Опасность в моем сердце**
