@@ -23,8 +23,8 @@
 - **Discord** - *kapitanpotuzhniak_66909*
 ## Всякое обо мне:
 - Люблю **металл-музыку**, особенно **дэт-металл** и **хеви-металл**, а так же фанат **пост-панка**. Любимые группы:
-  - **Cannial Corpse**
-  - **Children Of Bodom**
+  - **Cannibal Corpse**
+  - **Children of Bodom**
 
     ![Любимый альбом](https://upload.wikimedia.org/wikipedia/ru/1/1b/Hate_Crew_Deathroll_%28cover%29.jpg)
   - **Type O Negative**
