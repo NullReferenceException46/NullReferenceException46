@@ -1,4 +1,4 @@
-# Привет! Я Mr.Сырнечке 
+# Привет! Я Mr.Сырнечке 🎸💀
 ![Котэ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzp-2yWvmMfKTCuWZPvuJ03KIxtmOFTPj3Hg&s)
 
 Мне 14 лет и я самоучка. Летом резко увлекся вебом из-за слабого ноутбука который даже браузер еле как открывал.
@@ -21,8 +21,6 @@
 ## Всякое обо мне:
 - Люблю **металл-музыку**, особенно **дэт-металл** и **хеви-металл**, а так же фанат **пост-панка**. Любимые группы:
   - **Cannial Corpse**
-
-     ![Не самая цензурная картинка](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBmfbzui-cLZwI74h3R5lUHLUVSgTQXON3hg&s)
   - **Children Of Bodom**
 
     ![Люимый альбом](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc87tV0UkKXTx7e96B6CFUSB5jAZOIqD5c3A&s)
