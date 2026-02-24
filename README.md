@@ -26,10 +26,10 @@
   - **Cannial Corpse**
   - **Children Of Bodom**
 
-    ![Люимый альбом]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc87tV0UkKXTx7e96B6CFUSB5jAZOIqD5c3A&s](https://upload.wikimedia.org/wikipedia/ru/1/1b/Hate_Crew_Deathroll_%28cover%29.jpg))
+    ![Люимый альбом]([[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc87tV0UkKXTx7e96B6CFUSB5jAZOIqD5c3A&s](https://upload.wikimedia.org/wikipedia/ru/1/1b/Hate_Crew_Deathroll_%28cover%29.jpg)](https://upload.wikimedia.org/wikipedia/ru/1/1b/Hate_Crew_Deathroll_%28cover%29.jpg))
   - **Type O Negative**
 
-    ![Альбом]([https://upload.wikimedia.org/wikipedia/ru/f/fc/BloodyKisses.jpg](https://upload.wikimedia.org/wikipedia/ru/f/fc/BloodyKisses.jpg))
+    ![Альбом]([[https://upload.wikimedia.org/wikipedia/ru/f/fc/BloodyKisses.jpg](https://upload.wikimedia.org/wikipedia/ru/f/fc/BloodyKisses.jpg)](https://upload.wikimedia.org/wikipedia/ru/f/fc/BloodyKisses.jpg))
   - **Rammstein**
  
     ![Rammstein](https://upload.wikimedia.org/wikipedia/ru/thumb/e/e4/Sehnsucht2.JPG/330px-Sehnsucht2.JPG)
