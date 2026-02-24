@@ -13,7 +13,7 @@
 - **CSS**
 - Vue (Сначала пробовал React, но это слишком сложно, а Vue по сути CSS+HTML+JS 1 файле!)
 - ~~Смысл своего существования~~
-###Где меня можно найти:
+### Где меня можно найти:
 - [Telegram](https://t.me/NoSyrneke)
 - [Steam](https://steamcommunity.com/profiles/76561199503070452/)
 - [Spotify](https://open.spotify.com/user/31af7kpctcj7uchciw5uyjw2ivsi?si=be324df338ea46ed)
