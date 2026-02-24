@@ -1,16 +1,45 @@
-## Hi there 👋
+# Привет! Я Mr.Сырнечке 
+![Котэ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzp-2yWvmMfKTCuWZPvuJ03KIxtmOFTPj3Hg&s)
 
-<!--
-**NullReferenceException46/NullReferenceException46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Мне 14 лет и я самоучка. Летом резко увлекся вебом из-за слабого ноутбука который даже браузер еле как открывал.
+Потом я немного пообщался с другом своего отца который стал фрилансером освоив веб и с того момента пытался освоить что то самостоятельно.
+## Что я уже умею:
+Честно сказать - по ощущениям практически ничего, но все же что-то я умею и пытаюсь выучить что-то новое)
+- **Чистый HTML**
+- **CSS** (Bootstrap). Чистый CSS почти не понимаю, но сейчас пробую что-нибудь да выучить)
+- **JS** не на особо высоком уровне, но на frontend пока что хватает.
+- Markdown (Ну тут думаю вопросов нет)
+## В чем пытаюсь разобраться сейчас:
+- **CSS**
+- Vue (Сначала пробовал React, но это слишком сложно, а Vue по сути CSS+HTML+JS 1 файле!)
+- ~~Смысл своего существования~~
+###Где меня можно найти:
+- [Telegram](https://t.me/NoSyrneke)
+- [Steam](https://steamcommunity.com/profiles/76561199503070452/)
+- [Spotify](https://open.spotify.com/user/31af7kpctcj7uchciw5uyjw2ivsi?si=be324df338ea46ed)
+- **Discord** - *kapitanpotuzhniak_66909*
+## Всякое обо мне:
+- Люблю **металл-музыку**, особенно **дэт-металл** и **хеви-металл**, а так же фанат **пост-панка**. Любимые группы:
+  - **Cannial Corpse**
+  - **Children Of Bodom**
+  - **Type O Negative**
+  - **Rammstein**
+  - **Megadeth** и **Metallica**
+  - **Кино**
+  - **Наутилус Помпилиус**
+- Недавно пристрастился к аниме. Пока посмотрел только:
+  - **Вермейл в золотом** (Мое любимое)
+  - **Опасность в моем сердце**
+  - **Смотрительница Сунохары**
+- Хобби (помимо кодинга):
+  - **Игра на гитаре**
+  - **Готовка**
+  - **Плавание**
 
-Here are some ideas to get you started:
+### В общем буду очень рад найти себе единомышленников и друзей!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+> А без музыки на миру смерть не красна
+> А без музыки не хочется пропадать
+
+![Люимый альбом](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc87tV0UkKXTx7e96B6CFUSB5jAZOIqD5c3A&s)
