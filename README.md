@@ -30,7 +30,7 @@
   - **Children of Bodom**
 
   - **Type O Negative**
-  - 
+  
   - **Rammstein**
  
   - **Megadeth**
